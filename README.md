@@ -1,6 +1,6 @@
 
 ### CodeShare-Backend
-backend repository - https://github.com/rampalyadav0001/codeShare-Frontend
+backend repository - https://github.com/Ankitsingh2820/codeShare-Frontend
 
 
 ## Introduction
@@ -51,8 +51,8 @@ To get the backend running locally, follow these steps:
 ## Contact
 For any questions or suggestions, please feel free to contact me:
 
-- Email: rampalyadav23082001@gmail.com
-- LinkedIn: [Rampal Yadav](https://www.linkedin.com/in/rampal-yadav/)
+- Email: ankitsingh41201@gmail.com
+
 
 
 
